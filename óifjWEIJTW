@@ -1,0 +1,41 @@
+[33mcommit 5708231c86f21ea1debd79ad4036339a463cef64[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mtitulo[m[33m)[m
+Author: Maria Flor Di Piero <mariaflordipiero@gmail.com>
+Date:   Tue Feb 1 19:46:00 2022 -0300
+
+    Corrigindo nome do curso de docker
+
+[33mcommit b8a6062347fecdef76fe6df25ba4daa5ca9a0e65[m
+Author: Maria Flor Di Piero <mariaflordipiero@gmail.com>
+Date:   Tue Feb 1 19:28:03 2022 -0300
+
+    Adicionando título da página
+
+[33mcommit c963894139714009de4d566249d122197fa4d8b2[m
+Author: Maria Flor Di Piero <mariaflordipiero@gmail.com>
+Date:   Tue Feb 1 19:26:53 2022 -0300
+
+    Deletando arquivos Ada
+
+[33mcommit e77ab2052b125df70b211c6729af16585af7049a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31mlocal/master[m[33m)[m
+Author: Maria Flor Di Piero <mariaflordipiero@gmail.com>
+Date:   Fri Jan 28 18:32:59 2022 -0300
+
+    renomeando curso de integração contínua
+
+[33mcommit 982882393da3cc06a7cae741e80776737f7222ab[m
+Author: Maria Flor Di Piero <mariaflordipiero@gmail.com>
+Date:   Thu Jan 27 20:22:54 2022 -0300
+
+    Adicionando .gitignore
+
+[33mcommit d29ed64f2e0a78dca7c4b2c005c8eaece8e96218[m
+Author: Maria Flor Di Piero <mariaflordipiero@gmail.com>
+Date:   Thu Jan 27 19:24:38 2022 -0300
+
+    Acento adicionado no curso de Integração Contínua
+
+[33mcommit 66eaae646d4a0cb8048d2dcaf388926727b11381[m
+Author: Maria Flor Di Piero <mariaflordipiero@gmail.com>
+Date:   Thu Jan 27 19:21:54 2022 -0300
+
+    Criando arquivo index.html com lista de cursos
